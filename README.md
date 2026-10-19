@@ -1,19 +1,24 @@
-# UD2-Fundamentos-Rocio-Lopez
-## Rocío López Muñoz
-### 2º DAW
+# 📚 UD2 - Fundamentos
+### Rocío López Muñoz · 2.º DAW
 
-[ej01](https://github.com/)
-[ej02](https://github.com/)
-[ej03](https://github.com/)
-[ej04](https://github.com/)
-[ej05](https://github.com/)
-[ej06](https://github.com/)
-[ej07](https://github.com/)
-[ej08](https://github.com/)
-[ej09](https://github.com/)
-[ej10](https://github.com/)
-[ej11](https://github.com/)
-[ej10](https://github.com/)
-[Parte1](https://github.com/)
-[Parte2](https://github.com/)
-[Parte3](https://github.com/)
+---
+
+## 📑 Índice de ejercicios
+
+| Ejercicio | Enlace |
+|:---:|:---|
+| **Ejercicio 01** | [Ver ejercicio](https://github.com/) |
+| **Ejercicio 02** | [Ver ejercicio](https://github.com/) |
+| **Ejercicio 03** | [Ver ejercicio](https://github.com/) |
+| **Ejercicio 04** | [Ver ejercicio](https://github.com/) |
+| **Ejercicio 05** | [Ver ejercicio](https://github.com/) |
+| **Ejercicio 06** | [Ver ejercicio](https://github.com/) |
+| **Ejercicio 07** | [Ver ejercicio](https://github.com/) |
+| **Ejercicio 08** | [Ver ejercicio](https://github.com/) |
+| **Ejercicio 09** | [Ver ejercicio](https://github.com/) |
+| **Ejercicio 10** | [Ver ejercicio](https://github.com/) |
+| **Ejercicio 11** | [Ver ejercicio](https://github.com/) · [Parte 1](https://github.com/) · [Parte 2](https://github.com/) · [Parte 3](https://github.com/) |
+
+---
+
+✨ *Repositorio de actividades de desarrollo web entorno cliente de 2.º DAW.*
