@@ -18,6 +18,7 @@
 | **Ejercicio 09** | [Ver ejercicio](https://github.com/) |
 | **Ejercicio 10** | [Ver ejercicio](https://github.com/) |
 | **Ejercicio 11** | [Ver ejercicio](https://github.com/) · [Parte 1](https://github.com/) · [Parte 2](https://github.com/) · [Parte 3](https://github.com/) |
+| **Ejercicio 12** | [Ver ejercicio](https://github.com/) |
 
 ---
 
