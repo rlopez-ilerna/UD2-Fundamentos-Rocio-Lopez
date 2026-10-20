@@ -7,18 +7,18 @@
 
 | Ejercicio | Enlace |
 |:---:|:---|
-| **Ejercicio 01** | [Ver ejercicio](https://github.com/) |
-| **Ejercicio 02** | [Ver ejercicio](https://github.com/) |
-| **Ejercicio 03** | [Ver ejercicio](https://github.com/) |
-| **Ejercicio 04** | [Ver ejercicio](https://github.com/) |
-| **Ejercicio 05** | [Ver ejercicio](https://github.com/) |
-| **Ejercicio 06** | [Ver ejercicio](https://github.com/) |
-| **Ejercicio 07** | [Ver ejercicio](https://github.com/) |
-| **Ejercicio 08** | [Ver ejercicio](https://github.com/) |
-| **Ejercicio 09** | [Ver ejercicio](https://github.com/) |
-| **Ejercicio 10** | [Ver ejercicio](https://github.com/) |
-| **Ejercicio 11** | [Ver ejercicio](https://github.com/) · [Parte 1](https://github.com/) · [Parte 2](https://github.com/) · [Parte 3](https://github.com/) |
-| **Ejercicio 12** | [Ver ejercicio](https://github.com/) |
+| **Ejercicio 01** | [Ver ejercicio](./ej01/index.html) |
+| **Ejercicio 02** | [Ver ejercicio](./ej02/index.html) |
+| **Ejercicio 03** | [Ver ejercicio](./ej03/index.html) |
+| **Ejercicio 04** | [Ver ejercicio](./ej04/index.html) |
+| **Ejercicio 05** | [Ver ejercicio](./ej05/index.html) |
+| **Ejercicio 06** | [Ver ejercicio](./ej06/index.html) |
+| **Ejercicio 07** | [Ver ejercicio](./ej07/index.html) |
+| **Ejercicio 08** | [Ver ejercicio](./ej08/index.html) |
+| **Ejercicio 09** | [Ver ejercicio](./ej09/index.html) |
+| **Ejercicio 10** | [Ver ejercicio](./ej10/index.html) |
+| **Ejercicio 11** | [Ver ejercicio](./ej11/index.html)
+| **Ejercicio 12** | [Ver ejercicio](./ej12/index.html) |
 
 ---
 
